@@ -1,7 +1,5 @@
 # `Телеграмм-сервис для мониторинга погоды'
 
-[![foodgram-project-react workflow](https://github.com/Tomasitto/foodgram-project-react/actions/workflows/foodgram_workflow.yaml/badge.svg)](https://github.com/Tomasitto/foodgram-project-react/actions/workflows/foodgram_workflow.yml)
-
 #### О проекте:
 Телеграмм-сервис для погоды.мониторинга погода позволяет узнать погоду в любом городе имеющемся в сервисе Яндекс.Погода.
 
