@@ -5,9 +5,13 @@
 
 #### Технологии:
 -Python
+
 -aiogram
+
 -psycopg2
+
 -SQLAlchemy
+
 
 
 #### Как запустить проект:
