@@ -20,6 +20,17 @@
 
 `git@github.com:Tomasitto/aiogram_bot.git`
 
+Установить лоакльное окружение:
+
+`python -m venv venv`
+
+Установить зависимости:
+
+`pip install -r requirements.txt`
+
+Клонировать репозиторий и перейти в него в командной строке:
+
+`git@github.com:Tomasitto/aiogram_bot.git`
 Для работы с телеграмм ботом добавить свой токен в файл 'bot_config.py'
 Запуск Бота:
 
